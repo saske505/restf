@@ -1,0 +1,10 @@
+{
+  "name":"restf",
+  "scripts":{},
+  "env":{
+    "MONGOLAB_URI":".env"
+  },
+  "addons":[
+    "mongolab"
+  ]
+}
